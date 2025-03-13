@@ -1,0 +1,14 @@
+/Users/tyreece/RiderProjects/ICE_Task_3/ICE_Task_3/bin/Debug/net9.0/ICE_Task_3
+/Users/tyreece/RiderProjects/ICE_Task_3/ICE_Task_3/bin/Debug/net9.0/ICE_Task_3.deps.json
+/Users/tyreece/RiderProjects/ICE_Task_3/ICE_Task_3/bin/Debug/net9.0/ICE_Task_3.runtimeconfig.json
+/Users/tyreece/RiderProjects/ICE_Task_3/ICE_Task_3/bin/Debug/net9.0/ICE_Task_3.dll
+/Users/tyreece/RiderProjects/ICE_Task_3/ICE_Task_3/bin/Debug/net9.0/ICE_Task_3.pdb
+/Users/tyreece/RiderProjects/ICE_Task_3/ICE_Task_3/obj/Debug/net9.0/ICE_Task_3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tyreece/RiderProjects/ICE_Task_3/ICE_Task_3/obj/Debug/net9.0/ICE_Task_3.AssemblyInfoInputs.cache
+/Users/tyreece/RiderProjects/ICE_Task_3/ICE_Task_3/obj/Debug/net9.0/ICE_Task_3.AssemblyInfo.cs
+/Users/tyreece/RiderProjects/ICE_Task_3/ICE_Task_3/obj/Debug/net9.0/ICE_Task_3.csproj.CoreCompileInputs.cache
+/Users/tyreece/RiderProjects/ICE_Task_3/ICE_Task_3/obj/Debug/net9.0/ICE_Task_3.dll
+/Users/tyreece/RiderProjects/ICE_Task_3/ICE_Task_3/obj/Debug/net9.0/refint/ICE_Task_3.dll
+/Users/tyreece/RiderProjects/ICE_Task_3/ICE_Task_3/obj/Debug/net9.0/ICE_Task_3.pdb
+/Users/tyreece/RiderProjects/ICE_Task_3/ICE_Task_3/obj/Debug/net9.0/ICE_Task_3.genruntimeconfig.cache
+/Users/tyreece/RiderProjects/ICE_Task_3/ICE_Task_3/obj/Debug/net9.0/ref/ICE_Task_3.dll
